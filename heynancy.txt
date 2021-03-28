@@ -1,2 +1,6 @@
 Hey Nancy
+<<<<<<< HEAD
 Hey girl!
+=======
+This is tricky 
+>>>>>>> 84ad0a8f77f37b478f143e4308485c3c72d8fa74
